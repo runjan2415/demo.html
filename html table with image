@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>table new</title>
+</head>
+  <body>
+  <marquee><b>GALAXY</marquee>
+      <table border=2 width="100%"bgcolor="yellow">  
+     <tr bgcolor=black>
+      <td width="10%"colspan="3"><img src="sotware5.jpg"width="100%"height=150px></td>
+       <td width="90%"colspan="9"><img src="soft7.jpg"width=100% height="100px"></td>
+     </tr>
+     
+     <tr bgcolor="olive"width="100%"height="50"cellpadding="3">
+      <td colspan="2"><a href="#"><b>MENU</a></td>
+        <td colspan="3"><a href="#"><b>HOME</a></td>
+        <td colspan="1"><a href="#"><b>REGISTER</a></td>
+        <td><a href="#"><b>ABOUT US</a></td>
+        <td colspan="3"><a href="#"><b>CONTACTS</a></td>
+        </center>
+     </tr>
+     
+     <tr bgcolor="coconut"width="400"height="350"cellpadding="3">
+     <center>
+        <td colspan="3">
+        <ul type="disc">
+          <li>SCHOOL</li>
+          <li>COLLEGE</li>
+          <li>VILLAGE</li>
+          <li>DISTRICT</li>
+          </ul>
+          </td>
+          <td colspan="8"bgcolor="yellow"><img src="s8.jpg"height=350px width=100%></td>
+     </tr>
+     <center>
+     <tr bgcolor="sky blue" width="100%"height="20%"cellpadding="4">
+       <td colspan="8"><center>© 1993-2022 License, Legal Line, a Federal Not-for-profit Corporation.</center> </td>
+     </tr>
+     
+   </table>
+   </body>
+   </html>
